@@ -1,0 +1,6 @@
+openai
+os
+time
+requests
+selenium
+bs4
