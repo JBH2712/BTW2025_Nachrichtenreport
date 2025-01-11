@@ -2,3 +2,4 @@ openai
 requests
 selenium
 beautifulsoup4
+matplotlib
