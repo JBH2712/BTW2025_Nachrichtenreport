@@ -1,5 +1,4 @@
 openai
-time
 requests
 selenium
-bs4
+beautifulsoup4
